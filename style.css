@@ -196,7 +196,7 @@ span[data-descr]:focus::after {
 .raise:hover,
 .raise:focus {
   box-shadow: 5px 5px 5px 5px;
-  transform: translateX(500px);
+  transform: rotate(60deg);
 }
 
 .footer{
