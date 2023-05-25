@@ -1,7 +1,7 @@
 # HiveMind
 HiveMind - ZTM Landing Page Project for the Complete Web Developer in 2023: Zero to Mastery
 
-
+[HiveMind](https://getlouied.github.io/HiveMind.github.io/)
 ----------------------------------------------------------------------------------------------------
 
 Utilized Clock Cursor from [Proxy-99](https://github.com/tholman/cursor-effects/blob/master/readme.md)
